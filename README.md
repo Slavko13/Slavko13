@@ -19,7 +19,7 @@
   <li>  Java/Python/PHP languages </li>
   <li> MySQL, PostgreSQL, MongoDB, Liquibase </li>
   <li> Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, and so on... </li>
-  <li> GitHub/GitLab/Gerrit/Bitbucket </li>
-  <li> Docker, linux </li>
+  <li> GitHub/GitLab/Bitbucket </li>
+  <li> Docker, linux, Jenkins, Ansible</li>
 </ul>
  
