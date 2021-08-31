@@ -23,3 +23,9 @@
   <li> Docker, linux, Jenkins, Ansible</li>
 </ul>
  
+
+
+  
+  ![](https://komarev.com/ghpvc/?username=Slavko13&style=flat-square)
+
+
