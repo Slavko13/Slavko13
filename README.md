@@ -23,8 +23,13 @@
   <li> Docker, linux, Jenkins, Ansible</li>
 </ul>
  
-
-
+  <h3> Pinned repos </h3>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slavko13&repo=countries)](https://github.com/Slavko13/countries)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slavko13&repo=converter-valute)](https://github.com/Slavko13/converter-valute)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slavko13&repo=VkBoT)](https://github.com/Slavko13/VkBoT)
+  
+  
   
   ![](https://komarev.com/ghpvc/?username=Slavko13&style=flat-square&color=yellow)
 
