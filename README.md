@@ -9,7 +9,7 @@
 <ul> 
   <li>  :ru: My name is Viacheslav </li>
   <li> I`m :two::three: years old </li>
-  <li> In the past, I was a professional football player :soccer: . And now I have been studying programming for 3 years </li>
+  <li> In the past, I was a professional football player :soccer: . And now I have been studying programming for 4 years </li>
   <li> :school: I studied at MIREA - RTU https://www.mirea.ru/ 
 </ul>
 
@@ -21,6 +21,7 @@
   <li> Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, and so on... </li>
   <li> GitHub/GitLab/Bitbucket </li>
   <li> Docker, linux, Jenkins, Ansible</li>
+  <li> Vue.js, Angular </li>
 </ul>
  
   <h3> :coffee: Pinned repos </h3>
