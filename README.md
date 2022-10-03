@@ -8,7 +8,7 @@
 <h3> :octocat: Core info </h3>
 <ul> 
   <li>  :ru: My name is Viacheslav </li>
-  <li> I`m :two::two: years old </li>
+  <li> I`m :two::three: years old </li>
   <li> In the past, I was a professional football player :soccer: . And now I have been studying programming for 3 years </li>
   <li> :school: I studied at MIREA - RTU https://www.mirea.ru/ 
 </ul>
