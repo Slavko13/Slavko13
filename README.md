@@ -7,7 +7,7 @@
 
 <h3> :octocat: Core info </h3>
 <ul> 
-  <li>  🇧🇻: My name is Viacheslav </li>
+  <li>  🇧🇻 My name is Viacheslav </li>
   <li> I`m :two::four: years old </li>
   <li> In the past, I was a professional football player :soccer: . And now I have been studying programming for 4 years </li>
   <li> :school: I studied at MIREA - RTU https://www.mirea.ru/ 
