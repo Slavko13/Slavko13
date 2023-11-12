@@ -16,8 +16,8 @@
 <h3> :hammer_and_wrench: Technical Stack </h3>
 
 <ul> 
-  <li>  Java/Python/PHP languages </li>
-  <li> MySQL, PostgreSQL, MongoDB, Liquibase </li>
+  <li> Java/Python/PHP languages </li>
+  <li> MySQL, PostgreSQL, MongoDB, Liquibase, hbase, flyway </li>
   <li> Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, and so on... </li>
   <li> Git - GitHub/GitLab/Bitbucket and SVN as well </li>
   <li> Docker, linux, Jenkins, Ansible</li>
